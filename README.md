@@ -1,7 +1,7 @@
 # General-Event-Tracker
 This is a full stack CRUDE web application for creating and tracking general events , allows one to create, retrieve ,delete and edit events in the database.
 
-Configuration Instructions :
+**Configuration Instructions** :
 
 - Assuming that you want to run on the localhost, clone this repository into the www folder of htdocs folder for whatever Web Server that you are using between Wammp  and Xampp.
 
