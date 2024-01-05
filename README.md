@@ -10,6 +10,5 @@ This is a full stack CRUD web application for creating and tracking general even
 
 Reach me if you need help with anything, plus I am actively looking for a Programmer / Developer job so for any of these reasons reach me via any of the following means of communication:
 
-- WhatsApp: +265884462273
-
+- WhatsApp: +265999519558
 - Email    : dnzundah@gmail.com
